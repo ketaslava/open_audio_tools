@@ -1,5 +1,9 @@
 # Open Voice Analyzer
 
+<img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/logo.png" alt="drawing" width="200"/>
+
+# Links
+
 * [App in Google Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.openvoiceanalyzer)
 
 * [Source code](https://github.com/ketaslava/open_voice_analyzer-project)
