@@ -11,14 +11,14 @@ Open Voice Analyzer is designed to provide objective real-time feedback on your 
 # Screenshots
 
 <div>
-  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/1.jpg" alt="drawing" width="200"/>
-  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/2.jpg" alt="drawing" width="200"/>
-  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/3.jpg" alt="drawing" width="200"/>
-  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/4.jpg" alt="drawing" width="200"/>
-  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/5.jpg" alt="drawing" width="200"/>
-  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/6.jpg" alt="drawing" width="200"/>
-  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/7.jpg" alt="drawing" width="200"/>
-  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/8.jpg" alt="drawing" width="200"/>
+  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/1.png" alt="drawing" width="200"/>
+  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/2.png" alt="drawing" width="200"/>
+  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/3.png" alt="drawing" width="200"/>
+  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/4.png" alt="drawing" width="200"/>
+  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/5.png" alt="drawing" width="200"/>
+  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/6.png" alt="drawing" width="200"/>
+  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/7.png" alt="drawing" width="200"/>
+  <img src="https://github.com/ketaslava/open_voice_analyzer/blob/main/images/8.png" alt="drawing" width="200"/>
 </div>
 
 # Developers
