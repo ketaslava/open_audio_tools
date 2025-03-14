@@ -34,7 +34,7 @@ Open Voice Analyzer is designed to provide objective real-time feedback on your 
 
 This project is available under the [GNU GENERAL PUBLIC LICENSE Version 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
 
-Notice of licenses used in the project's technologies:
+Notice of the component's licenses used in this project:
 
 * Google icons [(Apache 2.0)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
