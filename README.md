@@ -10,7 +10,7 @@
 
 # About
 
-Open Voice Analyzer is designed to provide objective real-time feedback on your voice, helping you understand and improve it according to your needs
+Open Voice Analyzer is an app that provides objective, real-time feedback about your voice, helping you understand and improve it to suit your needs
 
 # Screenshots
 
