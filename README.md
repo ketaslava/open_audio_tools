@@ -6,7 +6,7 @@
 
 * [App in Google Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.openvoiceanalyzer)
 
-* [Source code](https://github.com/ketaslava/open_voice_analyzer-project)
+* [Source code](https://github.com/ketaslava/open_audio_tools-project) (A part of OpenAudioTools)
 
 # About
 
