@@ -6,11 +6,19 @@
 
 * [App in Google Play Market](https://play.google.com/store/apps/details?id=com.ktvincco.openaudiotools)
 
+<<<<<<< HEAD
 * [Source code](https://github.com/ketaslava/open_audio_tools-project)
 
 # About
 
 Open Audio Tools is designed to provide objective real-time feedback on your voice, helping you understand and improve it according to your needs
+=======
+* [Source code](https://github.com/ketaslava/open_audio_tools-project) (A part of OpenAudioTools)
+
+# About
+
+Open Voice Analyzer is an app that provides objective, real-time feedback about your voice, helping you understand and improve it to suit your needs
+>>>>>>> 12928e6b8a52f3c0f50fe345f474cac5e5f3c868
 
 # Screenshots
 
