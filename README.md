@@ -12,10 +12,6 @@
 
 Open Audio Tools is designed to provide objective real-time feedback on your voice, helping you understand and improve it according to your needs
 
-# About
-
-Open Voice Analyzer is an app that provides objective, real-time feedback about your voice, helping you understand and improve it to suit your needs
-
 # Screenshots
 
 <div>
